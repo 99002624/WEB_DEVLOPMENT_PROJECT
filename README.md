@@ -4,7 +4,6 @@ The project objective is to book Movie tickets online. The Ticket Booking System
 
 
 
-|CI/CD|Express|Selenium|Postman|
-|-----|-------|--------|-------|
-|![CI](https://github.com/99002624/WEB_DEVLOPMENT_PROJECT/workflows/CI/badge.svg)|![Express](https://github.com/99002624/WEB_DEVLOPMENT_PROJECT/workflows/Express/badge.svg)|![.github/workflows/selenium.yml](https://github.com/99002683/Web_Development_Mini_Project/workflows/.github/workflows/selenium.yml/badge.svg)|![Postman](https://github.com/99002624/WEB_DEVLOPMENT_PROJECT/workflows/Postman/badge.svg)|
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8ae3fa6a9c1e498a9bdeec9e71cefbce)](https://www.codacy.com/gh/99002624/WEB_DEVLOPMENT_PROJECT/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002624/WEB_DEVLOPMENT_PROJECT&amp;utm_campaign=Badge_Grade)
+|CI/CD|Express|Selenium|Postman|Codacy|
+|-----|-------|--------|-------|------|
+|![CI](https://github.com/99002624/WEB_DEVLOPMENT_PROJECT/workflows/CI/badge.svg)|![Express](https://github.com/99002624/WEB_DEVLOPMENT_PROJECT/workflows/Express/badge.svg)|![.github/workflows/selenium.yml](https://github.com/99002683/Web_Development_Mini_Project/workflows/.github/workflows/selenium.yml/badge.svg)|![Postman](https://github.com/99002624/WEB_DEVLOPMENT_PROJECT/workflows/Postman/badge.svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8ae3fa6a9c1e498a9bdeec9e71cefbce)](https://www.codacy.com/gh/99002624/WEB_DEVLOPMENT_PROJECT/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002624/WEB_DEVLOPMENT_PROJECT&amp;utm_campaign=Badge_Grade)
